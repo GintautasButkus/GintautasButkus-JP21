@@ -1,0 +1,8 @@
+* cbe40ad paskutinis commitas
+*   6ec457b conflicts fixed
+|\  
+| * 02e5a64 Update studentas.txt
+* | 5654864 Group number added
+|/  
+* 4c9967d student.txt added su pavarde
+* 89bd193 studentas.txt added

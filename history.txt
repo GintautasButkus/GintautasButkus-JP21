@@ -1,0 +1,61 @@
+ŠIOS PAMOKOS ISTORIJOS ĮRAŠAI:
+
+==========================================
+
+  500  git init
+  501  git branch -M master
+  502  git remote add origin git@github.com:GintautasButkus/GintautasButkus-JP21.git
+  503  git push -u origin
+  504  git push --set-upstream origin master
+  505  git touch studentas.txt
+  506  touch studentas.txt
+  507  code studentas.txt 
+  508  git status
+  509  git add .
+  510  git commit -m "studentas.txt added"
+  511  code studentas.txt 
+  512  git status
+  513  git add .
+  514  git commit -m "student.txt added su pavarde"
+  515  git log
+  516  touch logas.log
+  517  touch .gitignore
+  518  code .gitignore 
+  519  git remote add origin git@github.com:GintautasButkus/GintautasButkus-JP21.git
+  520  git push -u origin master
+  521  git checkout -b grupes-numeris
+  522  code studentas.txt 
+  523  git status
+  524  git add .
+  525  git commit -m "Group number added"
+  526  git checkout master
+  527  git pull
+  528  git checkout grupes-numeris 
+  529  git merge master
+  530  code stude
+  531  code studentas.txt 
+  532  git merge master
+  533  git code
+  534  code studentas.txt 
+  535  git merge master
+  536  git checkout master
+  537  git merge master
+  538  git status
+  539  git add .
+  540  git merge master
+  541  git commit -m "conflicts fixed"
+  542  git checkout master
+  543  git pull
+  544  git branch -d grupes-numeris 
+  545  git checkout grupes-numeris 
+  546  git push
+  547  git push -u origin
+  548  git push --set-upstream origin grupes-numeris
+  549  git checkout master
+  550  git merge grupes-numeris 
+  551  git branch -d grupes-numeris 
+  552  code studentas.txt 
+  553  git status
+  554  git add .
+  555  git commit -m "paskutinis commitas"
+  556  history > history.txt
